@@ -1,0 +1,1 @@
+This lecture/code has section 8 and section 9 code included. Section 8 is media queries and Section 9 is optimizations
